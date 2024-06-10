@@ -1,0 +1,8 @@
+rate_limits:
+  user_a:
+    limit: 5
+    duration: 5
+
+  user_b:
+    limit: 6
+    duration: 5
